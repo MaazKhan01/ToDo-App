@@ -1,9 +1,9 @@
-console.log(firebase);
+// console.log(firebase);
 function todo() {
     //making task node
     if (document.getElementById('task').value == "") {
 
-        alert('fill the text area!')
+        alert('Type Todos!')
         return false;
 
     } else {
